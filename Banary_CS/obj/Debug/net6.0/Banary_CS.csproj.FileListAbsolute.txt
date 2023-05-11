@@ -1,0 +1,15 @@
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\bin\Debug\net6.0\Banary_CS.exe
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\bin\Debug\net6.0\Banary_CS.deps.json
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\bin\Debug\net6.0\Banary_CS.runtimeconfig.json
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\bin\Debug\net6.0\Banary_CS.dll
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\bin\Debug\net6.0\Banary_CS.pdb
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\Banary_CS.csproj.AssemblyReference.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\Banary_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\Banary_CS.AssemblyInfoInputs.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\Banary_CS.AssemblyInfo.cs
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\Banary_CS.csproj.CoreCompileInputs.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\Banary_CS.dll
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\refint\Banary_CS.dll
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\Banary_CS.pdb
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\Banary_CS.genruntimeconfig.cache
+C:\Users\ckarlos\OneDrive\Documentos\ckarlos\curses\C#\Banary_CS\Banary_CS\obj\Debug\net6.0\ref\Banary_CS.dll
